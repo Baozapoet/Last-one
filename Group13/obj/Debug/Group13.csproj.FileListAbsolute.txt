@@ -1,0 +1,75 @@
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\Group13.exe.config
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\Group13.exe
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\Group13.pdb
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.Form1.resources
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.Properties.Resources.resources
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.exe
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.pdb
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\NetToolKit.dll
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\SKCLNET.dll
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\DELL\source\repos\Group13\Group13\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\DELL\source\repos\Group13\Group13\obj\Debug\Group13.csproj.CopyComplete
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\Group13.exe.config
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\Group13.exe
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\Group13.pdb
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\NetToolKit.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\SKCLNET.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\SymbolFactoryDotNet.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\bin\Debug\SymbolFactoryNetEngine.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.csproj.AssemblyReference.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.Form1.resources
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.Properties.Resources.resources
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.csproj.GenerateResource.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.csproj.CoreCompileInputs.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.csproj.CopyComplete
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.exe
+D:\OneDrive - vnu.edu.vn\Desktop\Group13\Group13\obj\Debug\Group13.pdb
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\Group13.exe.config
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\Group13.exe
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\Group13.pdb
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\NetToolKit.dll
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\SKCLNET.dll
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\SymbolFactoryDotNet.dll
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.csproj.AssemblyReference.cache
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.Form1.resources
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.Properties.Resources.resources
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.csproj.GenerateResource.cache
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.csproj.CoreCompileInputs.cache
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.csproj.CopyComplete
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.exe
+C:\Tai lieu\HKI 2022 - 2023\VI XU LY - VI DIEU KHIEN\Giua ky\Testt\Group13\obj\Debug\Group13.pdb
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\Group13.exe.config
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\Group13.exe
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\Group13.pdb
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\NetToolKit.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\SKCLNET.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\SymbolFactoryDotNet.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\bin\Debug\SymbolFactoryNetEngine.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.csproj.AssemblyReference.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.Form1.resources
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.Properties.Resources.resources
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.csproj.GenerateResource.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.csproj.CoreCompileInputs.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.csproj.CopyComplete
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.exe
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Group13-master\Group13\obj\Debug\Group13.pdb
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\Group13.exe.config
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\Group13.exe
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\Group13.pdb
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\NetToolKit.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\SKCLNET.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\SymbolFactoryDotNet.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\bin\Debug\SymbolFactoryNetEngine.dll
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.csproj.AssemblyReference.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.Form1.resources
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.Properties.Resources.resources
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.csproj.GenerateResource.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.csproj.CoreCompileInputs.cache
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.csproj.CopyComplete
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.exe
+D:\OneDrive - vnu.edu.vn\Desktop\Group13-master (1)\Dieu khien thiet bi\Group13\obj\Debug\Group13.pdb
